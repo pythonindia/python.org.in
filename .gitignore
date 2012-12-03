@@ -1,0 +1,4 @@
+*.pid
+*.py[cox]
+.DS_Store
+blog/output/
