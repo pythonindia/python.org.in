@@ -10,14 +10,14 @@ SITEURL = 'http://python.org.in/blog'
 DEFAULT_LANG = 'en'
 
 # Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
+LINKS =  (('Pycon India', 'http://in.pycon.org'),
+          ('Planet Python India', 'http://planet.python.org.in'),
+          ('BangPypers', 'http://bangalore.python.org.in'),
           )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          )
+# SOCIAL = (())
 
 THEME = 'theme'
 DEFAULT_PAGINATION = 10
+GITHUB_URL = 'https://github.com/ipss/python.org.in'
