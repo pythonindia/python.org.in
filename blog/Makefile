@@ -77,4 +77,7 @@ update:
 	git pull
 	make html PELICAN=bin/pelican
 
+deploy:
+	ln -fs $(OUTPUTDIR) ~/public_html/blog
+
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload github update
