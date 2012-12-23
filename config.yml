@@ -13,15 +13,14 @@
 #           base_url: /my-blog/
 #           domain: my-site.com
 base_url: /
-domain:
-
+domain: python.org.in
 
 #
 # METADATA
 #
 
 # Used in header meta tags and the site feed.
-author:
+author: Python India
 # A description of your site to be used in header meta tags.
 description:
 # Used in the site feed.
@@ -29,7 +28,9 @@ email:
 # Your site's subtitle.
 subtitle:
 # Your site's title.
-title:
+title: Python India
+
+posts_url: /blog/<year>/<month>/<day>/<title>/
 
 
 #
