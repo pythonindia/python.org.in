@@ -8,6 +8,46 @@
 </head>
 
 <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/">Python India</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="{{ 'active' if get_url() == '/' or get_url().startswith('/blog/') }}"><a href="/">Blog</a></li>
+              <li><a href="/wiki">Wiki</a></li>
+              <li><a href="/planet">Planet</a></li>
+              <li id="nav-jobs"><a href="/jobs/">Jobs</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+        $(function() {
+            if (document.location.pathname == "/jobs/") {
+                $(".nav li").removeClass("active");
+                $(".nav li#nav-jobs").addClass("active");
+            }
+        });
+    </script>
+
+    <!--
+    <header class="header">
+        <div class="container">
+            <h1><a href="{{ get_url() }}">{{ site.title }}</a></h1>
+        </div>
+    </header>
+    -->
+
+    <!--
+
     <div id="container">
         <div id="nav">
             <ul>
@@ -34,14 +74,23 @@
             <h1><a href="{{ get_url() }}">{{ site.title }}</a></h1>
             {% if site.subtitle %}<h2>{{ site.subtitle }}</h2>{% endif %}
         </div>
+        -->
         
-        <div id="content">
-            {% block content %}{% endblock %}
+        <div class="container">
+            <div id="content">
+                {% block content %}{% endblock %}
+            </div>
         </div>
         
-        <div id="footer">
-            <p>{% if site.author %}Copyright &copy; {{ none|date('%Y') }} {{ site.author }} &ndash; {% endif %}powered by <a href="http://mynt.mirroredwhite.com/">mynt</a></p>
-        </div>
+        <footer class="footer">
+            <div class="container">
+                <p>
+                {% if site.author %}Copyright &copy; {{ none|date('%Y') }} {{ site.author }} | {% endif %}
+                Powered by <a href="http://mynt.mirroredwhite.com/">mynt</a> |
+                Hosted by <a href="http://e2enetworks.com/">E2E Networks</a>
+                </p>
+            </div>
+        </footer>
     </div>
 </body>
 </html>
