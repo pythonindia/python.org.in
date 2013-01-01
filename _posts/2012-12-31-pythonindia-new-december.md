@@ -16,7 +16,7 @@ The [Python India](http://python.org.in/) website and websites of [bangalore][] 
 
 **Events:**
 
-* [SciPy 2012][scipy2012] conference was conducted at IIT Bombay on December 27 - 29
+* [SciPy.in 2012][scipy2012] conference was conducted at IIT Bombay on December 27 - 29
 
 Happy new year!
 
