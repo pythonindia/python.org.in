@@ -26,5 +26,5 @@ Happy new year!
 [mumpy-dec]: https://groups.google.com/forum/?fromgroups=#!topic/mumpy/PgYW33VqNKE
 [pune-dec]: http://pune.python.org.in/meeting-notes/2012/12/07/meeting-notes.html
 [mumpy-dec]: https://groups.google.com/forum/?fromgroups=#!topic/mumpy/PgYW33VqNKE
-[bang-dec]: http://bangalore.python.org.in/blog/2012/00/13/december-bangpypers-meetup/
+[bang-dec]: http://bangalore.python.org.in/blog/2012/12/13/december-bangpypers-meetup/
 [scipy2012]: http://scipy.in/scipyin/2012/
