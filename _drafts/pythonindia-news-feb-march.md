@@ -9,6 +9,7 @@ Python related events in February and March 2013:
 ## February
 
 Meetups:
+
 **February 16, 2013**: [BangPypers February meetup][bangpypers-feb] was held on 16th, feb 2013 in [Centre for Internet Society][CIS]. 25 people 
 attended the meetup. There are 2 sessions and 2 lightning talks.
 
