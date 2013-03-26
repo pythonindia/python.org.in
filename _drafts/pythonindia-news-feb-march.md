@@ -10,6 +10,9 @@ Python related events in February and March 2013:
 
 Meetups:
 
+**February 16, 2013**: [BangPypers February meetup][bangpypers-feb] was held on 16th, feb 2013 in [Centre for Internet Society][CIS]. 25 people 
+attended the meetup. There are 2 sessions and 2 lightning talks.
+
 Workshops:
 
 **February 02-03, 2013**: [Kushal Das][kushal] conducted 2-day Python workshop at NIT, Durgapur. About 90 students attended the workshop. [see blog post][nitd-post].
@@ -30,6 +33,13 @@ Workshops:
 
 **March 02-03, 2013**: [Anand Chitipothu][anand] conducted 2-day Python workshop at [NIT, Bhopal][nitb] as part of SRAJAN'13 event.
 
+**March 08-09, 2013**: [Free Software Movement Karnataka][fsmk] conducted 2-day Python workshop at [Oxford Engineering College, Bangalore][oxford]. The workshop was two tracks, one was handled by [Kracekumar Ramaraju][kracekumar] and other
+track was handled by Balaji Kutty on first day and [Anand Chitipothu][anand] on second day. [Santhosh][santhosh] volunteered
+during python workshop for two days.
+
+**March 15, 2013**: [Kracekumar Ramaraju][kracekumar] conducted 2 hours 30 minutes workshop at [KPR Institute of Engineering and Technology, Coimbatore][kpriet] as part of Trends in
+Open Source technologies.
+
 [anand]: http://anandology.com/
 [nitb]: http://www.manit.ac.in/
 [bangpypers-march]: http://bangalore.python.org.in/blog/2013/03/24/march-meetup-report/
@@ -37,8 +47,12 @@ Workshops:
 [1]: http://agiliq.com/blog/2013/02/introduction-to-python-workshop-on-february-15th-2/
 [Agiliq]: http://agiliq.com/
 [2]: http://www.meetup.com/Hyderabad-Python-Meetup-Group/events/103644162/
+[kracekumar]: http://kracekumar.com
+[oxford]: http://www.theoxford.edu/campus.htm#bommanahalli
+[kpriet]: http://kpriet.ac.in/
+[santhosh]: https://www.facebook.com/Santoshsecret
+[bangpypers-feb]: http://bangalore.python.org.in/blog/2013/03/05/feburary-meetup-video/
+[CIS]: http://cis-india.org/
 [kushal]: http://kushaldas.in/
 [nitd-post]: http://kushaldas.in/posts/2-day-python-workshop-in-nit-durgapur-event-report.html
 [bcrec-post]: http://kushaldas.in/posts/fedorapython-workshops-in-bcrec-and-first-dgplug-hacknight.html
-
-
