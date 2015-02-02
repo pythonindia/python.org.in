@@ -4,5 +4,5 @@ python:
 script: ./deploy
 env:
  global:
-   - GH_REF: github.com/pythonindia/bangalore.python.org.in
+   - GH_REF: github.com/pythonindia/python.org.in
    - secure: YyB9Y0nGW6I2GDMevgyr9hoit+QGWpXi5fK8DfaIfmf5NH7cEmlcjT+PbZKYA6B2HiJPcbFKi0Dsp68JMCMI0grBUsW3Ljl8UlUYllkfEUK0Uxxe4N9Y5oTFsbAO0gXhwYv3wfeiR1LyjOch9mujpA+0FcnXdC1FGdCpUo03/2I=
