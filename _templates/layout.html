@@ -3,7 +3,7 @@
 <html>
 <head>
     {% include 'page.header.html' %}
-    
+
     {% if site.title %}<title>{% if title %}{{ title }} &ndash; {% endif %}{{ site.title }}{% if not title and site.subtitle %} &ndash; {{ site.subtitle }}{% endif %}</title>{% endif %}
 </head>
 
@@ -20,9 +20,11 @@
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="{{ 'active' if get_url() == '/' or get_url().startswith('/blog/') }}"><a href="/">Blog</a></li>
+              <!--
               <li><a href="/wiki">Wiki</a></li>
               <li><a href="/planet">Planet</a></li>
               <li id="nav-jobs"><a href="/jobs/">Jobs</a></li>
+              -->
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -55,7 +57,7 @@
                 <li><a href="{{ get_url('archives/') }}">Archives</a></li>
                 {% if site.feed %}<li><a href="{{ get_url('feed.xml') }}">Feed</a></li>{% endif %}
             </ul>
-            
+
             {% if site.social.values()|sort(true)|first %}
                 <ul id="social">
                     {% if site.social.dribbble %}<li><a href="http://dribbble.com/{{ site.social.dribbble }}"><img src="{{ get_asset('images/social/dribbble.png') }}" width="16" height="16" alt="Dribbble"></a></li>{% endif %}
@@ -69,13 +71,13 @@
                 </ul>
             {% endif %}
         </div>
-        
+
         <div id="header">
             <h1><a href="{{ get_url() }}">{{ site.title }}</a></h1>
             {% if site.subtitle %}<h2>{{ site.subtitle }}</h2>{% endif %}
         </div>
         -->
-        
+
         <div class="container">
           <div class="row">
             <div id="content" class="span9">
@@ -90,14 +92,14 @@
                     <li><a href="https://groups.google.com/group/hyderabadpython">Hyderabad</a></li>
                     <li><a href="https://groups.google.com/group/python-kerala">Kerala</a></li>
                     <li><a href="http://mumpy.org/">Mumbai</a></li>
-                    <li><a href="http://mysore.python.org.in/">Mysore</a></li>
+                    <li><a href="http://mysore.python.org.in/index.html">Mysore</a></li>
                     <li><a href="https://www.facebook.com/PyGuj">Gujarat</a></li>
-                    <li><a href="http://pune.python.org.in/">Pune</a></li>
+                    <li><a href="http://pune.python.org.in/index.html">Pune</a></li>
                 </ul>
             </div>
           </div>
         </div>
-        
+
         <footer class="footer">
             <div class="container">
                 <p>
