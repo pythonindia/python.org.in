@@ -3,6 +3,7 @@
 rm -rf build/* || exit 0;
 mkdir build;
 pip install -U mynt==0.2.3
+pip install -U "misaka<2.0"
 mynt gen -f . build
 ( cd build
   git init
