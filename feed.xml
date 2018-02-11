@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <feed xmlns="http://www.w3.org/2005/Atom">
+        <title>Python India</title>
+        
+        <link rel="alternate" href="http://python.org.in/" />
+        <link rel="self" href="http://python.org.in/feed.xml" type="application/atom+xml" />
+        <id>http://python.org.in/</id>
+        <updated>2018-02-11T08:04:10Z</updated>
+        
+        <author>
+            <name>Python India</name>
+            
+            <uri>http://python.org.in/</uri>
+        </author>
+        
+        
+            <entry>
+                <title>Python India News - February 2018</title>
+                <link rel="alternate" href="http://python.org.in/blog/2018/02/11/pythonindia-news-february-2018/" type="text/html" />
+                <id>http://python.org.in/blog/2018/02/11/pythonindia-news-february-2018/</id>
+                <updated>2018-02-11T08:03:00Z</updated>
+                
+                <summary type="html">Python related events in February, 2018:</summary>
+                <content type="html">&lt;p&gt;Python related events in February, 2018:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/BangPypers/events/qxlhwkyxdbwb/&#34;&gt;BangPypers&lt;/a&gt; monthly meetup is on 17th February. It&amp;#39;s free to attend.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>Python India News - January 2013</title>
+                <link rel="alternate" href="http://python.org.in/blog/2013/01/31/pythonindia-news-january/" type="text/html" />
+                <id>http://python.org.in/blog/2013/01/31/pythonindia-news-january/</id>
+                <updated>2013-01-31T08:03:00Z</updated>
+                
+                <summary type="html">Python related events in January, 2013:</summary>
+                <content type="html">&lt;p&gt;Python related events in January, 2013:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://hasgeek.in/&#34;&gt;HasGeek&lt;/a&gt; conducted a &lt;a href=&#34;http://hacknight.in/hasgeek/aaronsw-memorial&#34;&gt;Aaron Swartz Memorial Hacknight&lt;/a&gt; on 19th January.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The BangPypers meetup was conducted along with the hacknight and the &lt;a href=&#34;http://bangalore.python.org.in/blog/2013/01/24/january-meetup-video/&#34;&gt;video of the meetup&lt;/a&gt; was posted to the bangpypers website.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://groups.google.com/d/topic/pythonpune/JrTpojvfe4w/discussion&#34;&gt;January PythonPune meetup&lt;/a&gt; was held at SICSR on 24th January.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Python users in Chennai met on 26th January. The &lt;a href=&#34;https://groups.google.com/d/topic/chennaipy/bGEZOJx9j2k/discussion&#34;&gt;minutes of the meeting&lt;/a&gt; are posted to the mailing list.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://in.pycon.org/2013/&#34;&gt;PyCon India 2013&lt;/a&gt; website is up. Join the &lt;a href=&#34;http://mail.python.org/mailman/listinfo/inpycon&#34;&gt;PyCon India mailing list&lt;/a&gt; if you would to participate in the discussions and help with the conference.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>Python India News - December 2012</title>
+                <link rel="alternate" href="http://python.org.in/blog/2012/12/31/pythonindia-new-december/" type="text/html" />
+                <id>http://python.org.in/blog/2012/12/31/pythonindia-new-december/</id>
+                <updated>2012-12-31T08:03:00Z</updated>
+                
+                <summary type="html">Decemeber 2012 has been very active month for Indian Python community.</summary>
+                <content type="html">&lt;p&gt;Decemeber 2012 has been very active month for Indian Python community.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://python.org.in/&#34;&gt;Python India&lt;/a&gt; website and websites of &lt;a href=&#34;http://bangalore.python.org.in/&#34;&gt;bangalore&lt;/a&gt; and &lt;a href=&#34;http://pune.python.org.in/&#34;&gt;pune&lt;/a&gt; usergroups are setup.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meetups:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pune.python.org.in/&#34;&gt;Pune Python&lt;/a&gt; had their &lt;a href=&#34;http://pune.python.org.in/meeting-notes/2012/12/07/meeting-notes.html&#34;&gt;December meetup&lt;/a&gt; at SICSR On 7th December, and it was attended by 20+ people and students of SICSR.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://groups.google.com/forum/?fromgroups=#!topic/mumpy/PgYW33VqNKE&#34;&gt;MumPy December meetup&lt;/a&gt; was held on 9th December.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bangalore.python.org.in/blog/2012/12/13/december-bangpypers-meetup/&#34;&gt;December Bangpypers meetup&lt;/a&gt; was help on 15th December at learnstreet office and it was attended by about 15 people.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Events:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scipy.in/scipyin/2012/&#34;&gt;SciPy.in 2012&lt;/a&gt; conference was conducted at IIT Bombay on December 27 - 29&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Happy new year!&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>Services offered by Python India</title>
+                <link rel="alternate" href="http://python.org.in/blog/2012/12/26/pythonindia-services/" type="text/html" />
+                <id>http://python.org.in/blog/2012/12/26/pythonindia-services/</id>
+                <updated>2012-12-26T09:10:00Z</updated>
+                
+                <summary type="html">Python India offers space for hosting website, blog etc. and email redirection for Python usergroups in India.</summary>
+                <content type="html">&lt;p&gt;Python India offers space for hosting website, blog etc. and email redirection for Python usergroups in India.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bangalore.python.org.in/&#34;&gt;Bangalore&lt;/a&gt; and &lt;a href=&#34;http://pune.python.org.in/&#34;&gt;Pune&lt;/a&gt; usergroups have already started used this service.  Currently, only static websites generated using &lt;a href=&#34;http://mynt.mirroredwhite.com/&#34;&gt;Mynt&lt;/a&gt;, &lt;a href=&#34;http://pelican.readthedocs.org/&#34;&gt;Pelican&lt;/a&gt;, &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; etc. are supported.&lt;/p&gt;
+
+&lt;p&gt;If you would like to setup a website for Python usergroup in your city, please drop an email to &lt;em&gt;webmaster-at-python.org.in&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Apart from the usergroup websites, Python India maintains a &lt;a href=&#34;http://python.org.in/wiki/&#34;&gt;wiki&lt;/a&gt; and a &lt;a href=&#34;http://python.org.in/planet/&#34;&gt;planet&lt;/a&gt; for aggregating blogs of Python developers in India.&lt;/p&gt;
+
+&lt;p&gt;Python India thanks &lt;a href=&#34;http://e2enetworks.com/&#34;&gt;E2E Networks&lt;/a&gt; for sponsoring a VPS server.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>Welcome to Python India!</title>
+                <link rel="alternate" href="http://python.org.in/blog/2012/12/26/welcome-to-pythonindia/" type="text/html" />
+                <id>http://python.org.in/blog/2012/12/26/welcome-to-pythonindia/</id>
+                <updated>2012-12-26T09:00:00Z</updated>
+                
+                <summary type="html">Welcome to &lt;em&gt;Python India&lt;/em&gt;, the new home of Indian Python community.</summary>
+                <content type="html">&lt;p&gt;Welcome to &lt;em&gt;Python India&lt;/em&gt;, the new home of Indian Python community.&lt;/p&gt;
+
+&lt;p&gt;Python India, formally represented by &lt;em&gt;Indian Python Software Society&lt;/em&gt;, a non-profit society registered in India for promoting Python programming language in India.&lt;/p&gt;
+
+&lt;p&gt;Python India conducts anual conference &lt;a href=&#34;http://in.pycon.org/&#34;&gt;PyCon India&lt;/a&gt;, supports python usergroups in India by providing infrastructure for managing website, blog etc.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>Hello, world!</title>
+                <link rel="alternate" href="http://python.org.in/blog/2012/12/23/hello-world/" type="text/html" />
+                <id>http://python.org.in/blog/2012/12/23/hello-world/</id>
+                <updated>2012-12-23T08:03:00Z</updated>
+                
+                <summary type="html">Hello, world!</summary>
+                <content type="html">&lt;p&gt;Hello, world!&lt;/p&gt;
+
+&lt;p&gt;Welcome to &lt;strong&gt;Python India&lt;/strong&gt;!!&lt;/p&gt;
+</content>
+            </entry>
+        
+    </feed>
